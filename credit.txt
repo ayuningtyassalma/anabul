@@ -3,16 +3,16 @@ landing page
 // gambar anjing
 <div>Stickers made by <a href="https://www.flaticon.com/authors/stickers" title="Stickers">Stickers</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-//gambar cewe cowo lgi megang anjing dan kucing
+//a girl and a boy holding a dong
 <a href="https://storyset.com/home">Home illustrations by Storyset</a>
 
-//gambar pet grooming(anjing)
+//pet grooming(dog)
 Photo by <a href="https://unsplash.com/@benjaminlehman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">benjamin lehman</a> on <a href="https://unsplash.com/s/photos/grooming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-//gambar pet gromming(kucing)
+//gambar pet gromming(cat)
 Photo by <a href="https://unsplash.com/@konglingda?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">lingda kong</a> on <a href="https://unsplash.com/s/photos/cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-//gambar penitipan
+//landing page vector
 Photo by <a href="https://unsplash.com/@kabofoods?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kabo</a> on <a href="https://unsplash.com/collections/18304716/pet-care?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 //gambar paket anabul sehat
