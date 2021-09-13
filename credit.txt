@@ -1,0 +1,45 @@
+landing page
+
+// gambar anjing
+<div>Stickers made by <a href="https://www.flaticon.com/authors/stickers" title="Stickers">Stickers</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+//gambar cewe cowo lgi megang anjing dan kucing
+<a href="https://storyset.com/home">Home illustrations by Storyset</a>
+
+//gambar pet grooming(anjing)
+Photo by <a href="https://unsplash.com/@benjaminlehman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">benjamin lehman</a> on <a href="https://unsplash.com/s/photos/grooming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+//gambar pet gromming(kucing)
+Photo by <a href="https://unsplash.com/@konglingda?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">lingda kong</a> on <a href="https://unsplash.com/s/photos/cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+//gambar penitipan
+Photo by <a href="https://unsplash.com/@kabofoods?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kabo</a> on <a href="https://unsplash.com/collections/18304716/pet-care?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+//gambar paket anabul sehat
+Photo by <a href="https://unsplash.com/@itssammoqadam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sam Moqadam</a> on <a href="https://unsplash.com/s/photos/pet-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+//gambar paket anabul sehat II
+Image by <a href="https://pixabay.com/users/christopherpluta-108394/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=408453">Krzysztof Pluta</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=408453">Pixabay</a>
+
+//gambar paket anabul sehat III
+Image by <a href="https://pixabay.com/users/mattycoulton-15501404/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5175532">Mat Coulton</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5175532">Pixabay</a>
+
+//benefit 1
+<a href="https://storyset.com/love">Love illustrations by Storyset</a>
+
+//benefit 2
+<a href="https://storyset.com/love">Love illustrations by Storyset</a>
+
+//benefit 3 medicine
+<a href="https://storyset.com/work">Work illustrations by Storyset</a>
+
+//benefit 4 checkup
+<a href="https://storyset.com/job">Job illustrations by Storyset</a>
+
+//pet owner 1
+Photo by <a href="https://unsplash.com/@tamasp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tamas Pap</a> on <a href="https://unsplash.com/s/photos/pet-owner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+  
+  
+  

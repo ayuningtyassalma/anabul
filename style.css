@@ -1,0 +1,322 @@
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+    width: 150%;
+}
+
+
+
+
+/* navigasi */
+
+.nav-item {
+    margin-right: 10px;
+}
+
+
+
+.navbar-nav a,
+.navbar-brand {
+    color: #FF9955 !important;
+    font-weight: 600 !important;
+}
+
+.tombol1 {
+    background-color: #00CCAA;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-weight: 600;
+
+}
+
+/* Content */
+.content {
+    height: 980px;
+    background-image: url(../Project3/jumbotron1.png);
+}
+
+.content h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 260px;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+.content img {
+    width: 560px;
+    margin-top: 20px;
+}
+
+.tombol2 {
+    background-color: #FFF6F6;
+    color: #FF9955;
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+
+/* harga promo */
+.card {
+    background-color: #FBFBFB;
+    margin: 20px;
+    height: 400px;
+}
+
+
+.promo h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #FF9955;
+}
+
+.promo h1::after {
+    content: '';
+    display: block;
+    width: 148px;
+    height: 6px;
+    border-radius: 6px;
+    border-bottom: 4px solid #00CCAA;
+    margin: 17px auto;
+}
+
+
+
+
+.product-thumbnail h5 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.product-thumbnail p {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.product-thumbnail .btn {
+    width: 125px;
+    height: 25px;
+    font-size: 9px;
+    text-align: left;
+    background-color: #00CCAA;
+    border-radius: 12px;
+    font-weight: 600;
+    color: #FFFFFF;
+
+}
+
+.product-thumbnail h3 {
+    font-size: 20px;
+    color: #FF9955;
+    font-weight: 600;
+}
+
+.price {
+    font-size: 18px;
+    color: #FF0000;
+}
+
+/* Benefit */
+.benefit {
+    height: 1350px;
+    background-color: #00CCAA;
+    margin-top: 180px;
+}
+
+.benefit h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+    color: #FBFBFB;
+}
+
+.benefit img {
+    height: 230px;
+    width: 230px;
+}
+
+
+.benefit h1::after {
+    content: '';
+    display: block;
+    width: 148px;
+    height: 6px;
+    border-radius: 6px;
+    border-bottom: 4px solid #FF9955;
+    margin: 17px auto;
+}
+
+.benefit img {
+    height: 230px;
+    width: 230px;
+}
+
+.benefit h4 {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFF6F6;
+}
+
+/* Testimoni */
+.testimoni {}
+
+.testimoni h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+    color: #00CCAA;
+}
+
+.testimoni h1::after {
+    content: '';
+    display: block;
+    width: 148px;
+    height: 6px;
+    border-radius: 6px;
+    border-bottom: 4px solid #FF9955;
+    margin: 17px auto;
+}
+
+
+
+
+.block {
+    background-color: #FFF6F6;
+    margin: 50px 15px;
+    max-height: 750px;
+    border-radius: 25px;
+    margin-left: 50px;
+    padding-top: 5px;
+}
+
+.block .row {
+    display: flex;
+    place-items: normal;
+
+}
+
+.user {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
+.info h6 {
+    font-size: 20px;
+    color: #FF9955;
+    font-weight: 700;
+}
+
+.info p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #BBA8A8;
+}
+
+.content1 p {
+    text-align: center;
+    justify-content: center;
+    margin-top: 98px;
+    font-weight: 700;
+    color: #FF9955;
+    font-size: 16px;
+
+}
+
+
+
+.image {
+    position: relative;
+    margin: 10px 15px 20px 15px;
+
+
+}
+
+.image img {
+    height: 140px;
+    width: 150px;
+    border: 10px solid #00CCAA;
+    border-radius: 50%;
+}
+
+.carousel-control-prev {
+    left: -70px;
+}
+
+.carousel-control-next {
+    right: -95px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #FF9955;
+}
+
+footer {
+    height: 76px;
+    background-color: #FF9955;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-left: 50px;
+}
+
+
+/* responsive mobile */
+@media (max-width: 991.98px) {
+
+    /* content */
+    .content {
+        text-align: center;
+    }
+
+    .content img {
+        width: 400px;
+        text-align: center;
+
+    }
+
+    .content h1 {
+        font-size: 20px;
+    }
+
+    .content p {
+        font-size: 12px;
+    }
+
+    .tombol2 {
+        width: 175px;
+        height: 35px;
+        font-size: 16px;
+    }
+
+
+    /* Promo */
+    .product-thumbnail {
+        margin: 50px auto !important;
+        justify-content: center;
+        align-self: center;
+        align-content: center;
+        padding: 0px;
+    }
+
+    /* footer */
+
+
+
+    footer p {
+        font-size: 14px;
+    }
+
+
+}
